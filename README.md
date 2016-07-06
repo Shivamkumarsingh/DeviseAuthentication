@@ -1,3 +1,3 @@
 # DeviseAuthentication
-Authentication of user model using Devise gem
+Authentication of user model using Devise gem in ruby on rails
 
